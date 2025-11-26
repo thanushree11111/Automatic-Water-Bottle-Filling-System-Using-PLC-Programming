@@ -9,9 +9,7 @@ Design an automatic bottle filling and labeling system using an Omron CP1E PLC t
 
 Omron CX-Programmer (for PLC programming)
 
-** System Description**
-
-The system consists of:
+**System Description**
 
 Bottle detection using sensors
 
